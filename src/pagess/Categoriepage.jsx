@@ -37,7 +37,7 @@ const mockProductsData = {
     { name: "Elegant Bed", image: "/bed5.jpeg", price: 499 },
     { name: "Modern Bed", image: "/bed6.jpeg", price: 599 },
     { name: "Classic Bed", image: "/bed7.jpeg", price: 699 },
-    { name: "Classic Bed", image: "/bed7.jpeg", price: 699 },
+    { name: "Classic Bed", image: "/bed8.jpeg", price: 699 },
   ],
   almirah: [
     { name: "Crockery Almirah 3 cabinets sheesham structure and sheet build", image: "/almirah1.jpeg", price: 35000 },
