@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Hero = () => {
   return (
     <div
-      className="relative w-full h-screen bg-cover bg-center md:bg-[url('/hero7.png')] bg-[url('/jpp2.png')]"
+      className="relative w-full h-screen bg-cover bg-center md:bg-[url('/hero7.webp')] bg-[url('/jpp2.png')]"
     >
       {/* Navbar Links */}
       <div className="absolute z-20 top-8 right-8 flex space-x-6 text-[#5d3b2d] hover:text-[#a36348] font-serif text-md md:text-lg ml-10 md:mr-10">
